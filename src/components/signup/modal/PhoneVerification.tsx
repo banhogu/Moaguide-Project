@@ -1,3 +1,5 @@
+'use client';
+
 import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
 import { sendVerificationCode, verifyCode } from '@/service/auth';
 import Image from 'next/image';

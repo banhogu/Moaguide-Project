@@ -1,10 +1,12 @@
-'use client';
 import Link from 'next/link';
-import React from 'react';
-import { useAuthStore } from '@/store/userAuth.store';
+import { cookies } from 'next/headers';
 
-const Gnb = () => {
-  const { isLoggedIn } = useAuthStore(); 
+const Gnb = async () => {
+  // 서버 컴포넌트로 사용 - 쿠키 서버 사이드에서 읽어서 렌더링 서버에서 바로 되게끔
+  const cookieStore = cookies();
+  const accessToken = cookieStore.get('access_token');
+
+  const isLoggedIn = !!accessToken;
 
   return (
     <div className='max-w-[1000px] mx-auto flex justify-between py-2 desk:min-w-[400px]'>
