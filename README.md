@@ -5,6 +5,8 @@
 
 # 프로젝트 소개
 
+[프로젝트 상세 노션](https://www.notion.so/STO-MVP-1e93646e83dc4d328d5fc4bcc526841f)
+
 > **제작기간** : 2024.07.22 ~ 개발 진행 중
 
 > **제작인원** : 7명 (PM 2명, UI/UX 외주 제작, FE 3명, BE 2명)
@@ -12,6 +14,62 @@
 > **서비스 소개** : 해당 프로젝트는 분산된 STO(토큰증권) 시장 정보를 통합해 투자자들에게 신뢰도 높은 최신 데이터와 분석 리포트를 제공하는 서비스입니다. 자체 플랫폼 개발과 마케팅을 통해 개발 초기 67여 명의 유저를 모집했으며, 2024년까지 2,000명의 유저를 확보할 계획입니다. MVP 개발 이후 플랫폼 확장과 B2B 모델을 통해 시장 점유율을 확대할 예정입니다. 조각투자 상품 정보 제공, 최신 뉴스를 제공하며 자체 프리미엄 구독권 결제 시 투자 가이드 서비스를 함께 제공합니다.
 
 </aside>
+
+<br/>
+
+## 🧑‍🤝‍🧑 Contributors
+
+### FE Team
+
+<div>
+  <table>
+      <tr>
+          <th>방호진</th>
+          <th>정지오</th>
+          <th>조기범</th>
+      </tr>
+      <tr>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/132210541?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/banhogu">@Bang HoJin</a>
+          </td>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/104253583?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/jiohjung98">@jiohjung98</a>
+          </td>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/95483959?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/eun-hak">@JO KIBEOM</a>
+          </td>
+      </tr>
+  </table>
+</div>
+
+### BE Team
+
+<div>
+  <table>
+      <tr>
+          <th>주우민</th>
+          <th>김상우</th>
+          <th>전유림</th>
+      </tr>
+      <tr>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/121492369?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/zoomin3022">@zoomin3022</a>
+          </td>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/72953900?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/KimSangwoo1259">@KimSangwoo1259</a>
+          </td>
+          <td align="center">
+              <img src="https://avatars.githubusercontent.com/u/139152515?v=4" alt="avatar" width="150" style="max-width: 100%;" /><br />
+              <a href="https://github.com/yurim0628">@yurim0628</a>
+          </td>
+      </tr>
+  </table>
+</div>
 
 <br/>
 
